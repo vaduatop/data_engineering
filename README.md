@@ -8,5 +8,5 @@
 > 
 
 <div id="header" align="center">
-  <img src="https://storage.googleapis.com/kaggle-datasets-ima…1ee5a8915/dataset-cover.jpg?t=2019-01-30-17-16-36" width="400"/>
+  <img src="https://img.freepik.com/premium-photo/amazing-coffee-plantation-guatemala_1020514-33369.jpg" width="400"/>
 </div>
